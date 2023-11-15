@@ -105,11 +105,8 @@ struct ContentView: View {
         formatter.unitOptions = .providedUnit
         formatter.unitStyle = .long
     }
-    
-    
-    
-    
 }
+
 #Preview {
     ContentView()
 }
